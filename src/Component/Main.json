@@ -1,0 +1,177 @@
+{
+    "Vegetables":[
+        {
+            "id":"veg1",
+            "name":"Coriander/Dhaniya",
+            "img":"https://www.bigbasket.com/media/uploads/p/s/10000098_9-fresho-coriander-leaves.jpg",
+            "price":170,
+            "mrp":232.88,
+            "added":false,
+            "add1":true,
+            "add2":false,
+            "itemscount":1,
+            "quantity":true,
+            "about":[
+                    {"details":"Coriander leaves are green, fragile with a decorative appearance. They contain minimal aroma and have a spicy sweet taste."},
+                    {"details":"Now do not bother wasting time cutting off the roots as we value your money and time and provide you the freshest leafy edible parts ."},
+                    {"details":"Do not forget to check our delicious recipe - https://www.bigbasket.com/cookbook/recipes/33/green-chutney/"}
+                ],
+            "benifits":[
+                    {"use":"Coriander leaves fight food poisoning and lower blood sugar levels."},
+                    {"use":"They relieve urinary tract infections and help in maintaining a healthy menstrual cycle while preventing neurological inflammations and diseases."},
+                    {"use":"Tip - Add coriander leaves to boiling water. Let it cool down and then consume it. Drink this water every morning to cleanse the stomach."}
+                ]   
+        },
+        {
+            "id":"veg2",
+            "name":"Tomato Local - Grade A/Tamatar",
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000203_16-fresho-tomato-local.jpg",
+            "price":49,
+            "mrp":90.41,
+            "added":false,
+            "add1":true,
+            "add2":false,
+            "itemscount":1,
+            "quantity":true,
+            "about":[
+                    {"details":"Local tomatoes are partly sour and partly sweet and contain many seeds inside which are edible. The red colour present in tomatoes is due to lycopene, an anti-oxidant."},
+                    {"details":"Do not forget to check out our delicious recipe- https://www.bigbasket.com/cookbook/recipes/935/tomato-chutney-for-dosa-and-idly/"}
+                ],
+            "benifits":[
+                    {"use":"Tomatoes contain Vitamin C,K. lycopene, an antioxidant that reduces the risk of cancer and heart-diseases. They protect the eyes from light induced damage."},
+                    {"use":"Essential for pregnant women as these tomatoes protect infants against neural tube defects."} 
+                ]   
+        },
+        {
+            "id":"veg3",
+            "name":"Carrot",
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000271_13-fresho-carrot-ooty.jpg",
+            "price":36,
+            "mrp":49.32,
+            "added":false,
+            "add1":true,
+            "add2":false,
+            "itemscount":1,
+            "quantity":true,
+            "about":[
+                    {"details":"A popular sweet-tasting root vegetable, Carrots are narrow and cone shaped."},
+                    {"details":"They have thick, fleshy, deeply colored root, which grows underground, and feathery green leaves that emerge above the ground."},
+                    {"details":"While these greens are fresh tasting and slightly bitter, the carrot roots are crunchy textured with a sweet and minty aromatic taste."},
+                    {"details":"Fresho brings you the flavour and richness of the finest bright orange, crispy and juicy carrots."},
+                    {"details":"A popular sweet-tasting root vegetable, Carrots are narrow and cone shaped."},
+                    {"details":"Do not forget to check our delicious recipe - https://www.bigbasket.com/cookbook/recipes/1203/carrot-or-gajar-ki-burfi/"}
+                ],
+            "benifits":[
+                    {"use":"Carrots provide the highest content of vitamin A of all the vegetables."},
+                    {"use":"Brightly orange colored carrots have pigments like carotenoids and flavonoids, that provide several antioxidants and act as a defense against cancer."},
+                    {"use":"They aid in maintaining oral health and also decrease the risk of stroke and other heart diseases."} 
+                ]   
+        },
+        {
+            "id":"veg4",
+            "name":"Lettuce - Iceberg",
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000133_14-fresho-lettuce-iceberg.jpg",
+            "price": 135,
+            "mrp":184.93,
+            "added":false,
+            "add1":true,
+            "add2":false,
+            "itemscount":1,
+            "quantity":true,
+            "about":[
+                    {"details":"Iceberg lettuce is a variety of lettuce with crisp leaves which grows in a spherical head resembling a cabbage. The leaves on the outside tend to be green and the leaves in the center go from pale yellow to nearly whitish as you move closer and closer to the center of the head with the sweetest leaves in the center of the head."},
+                    {"details":"Do not forget to check out our delicious recipe-https://www.bigbasket.com/cookbook/recipes/2277/chicken-salad/"}
+                ],
+            "benifits":[
+                    {"use":"Lettuce provides significant amounts of vitamins A and K."},
+                    {"use":"They have a high water content, making it a refreshing choice during hot weather."},
+                    {"use":"They also provide calcium, potassium, vitamin C, and folate."} 
+                ]   
+        },
+        {
+            "id":"veg5",
+            "name":"Broccoli",
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000063_20-fresho-broccoli.jpg",
+            "price": 170,
+            "mrp":232.88,
+            "added":false,
+            "add1":true,
+            "add2":false,
+            "itemscount":1,
+            "quantity":true,
+            "about":[
+                    {"details":"With a shape resembling that of a cauliflower, Brocollis have clusters of small, tight flower heads. These heads turn bright green on cooking and tastes slightly bitter."},
+                    {"details":"Do not forget to check our delicious recipe - https://www.bigbasket.com/cookbook/recipes/1695/broccoli-masala/"}
+                ],
+            "benifits":[
+                    {"use":"Broccoli prevents cancer and reduces cholesterol."},
+                    {"use":"Maintains bone and heart health."},
+                    {"use":"Good for skin, eyes and has anti-aging properties."} 
+                ]   
+        },
+        {
+            "id":"veg6",
+            "name":"Potato",
+            "img":"https://www.bigbasket.com/media/uploads/p/l/40204131_3-fresho-potato-hasan.jpg",
+            "price": 24,
+            "mrp":35.62,
+            "added":false,
+            "add1":true,
+            "add2":false,
+            "itemscount":1,
+            "quantity":true,
+            "about":[
+                    {"details":"These potatoes are grown in Areas of Hassan, Karnataka which are nutrient-dense, non-fattening and have a reasonable amount of calories. Include them in your regular meals so that the body receives a good supply of carbohydrates, dietary fibres and essential minerals such as copper, magnesium, and iron. In India, potatoes are probably the second-most consumed vegetables after onions."},
+                    {"details":"Click here for delicious vegetable recipes - https://www.bigbasket.com/flavors/collections/227/fresh-vegetables/"}
+                ],
+            "benifits":[
+                    {"use":"Consumption of potatoes helps to maintain the blood glucose level and keeps the brain alert and active."},
+                    {"use":"Potatoes should be included in the diet of those having mouth ulcers. As they are easy to digest, they are good for patients."},
+                    {"use":"People who are diagnosed with kidney stones or heart disorders can include potatoes in their diet as they are light on the stomach."} ,
+                    {"use":"Apart from containing useful minerals such as potassium, iron, copper and magnesium, potatoes are also full of phytochemical antioxidants such as flavonoids, Vitamin B and folate."}
+                ]   
+        },
+        {
+            "id":"veg7",
+            "name":"Ladies Finger/Bhindi",
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000144_13-fresho-ladies-finger.jpg",
+            "price": 14,
+            "mrp":31.51,
+            "added":false,
+            "add1":true,
+            "add2":false,
+            "itemscount":1,
+            "quantity":true,
+            "about":[
+                    {"details":"Ladies' finger is a green vegetable with a tip at the end and a lighter green head, which is inedible and to be thrown away."},
+                    {"details":"It tastes mild and slightly grassy."},
+                    {"details":"Ladies' finger or okra is a popular vegetable that is nutritious and has a high fibre content. It contains both soluble as well as insoluble fibres and is used in various recipes. The best way to select ladies' finger is to look for smaller pods as they are tender. These also taste better. The brighter coloured ones and those that are unblemished, and firm are the best quality lady's finger. The ladies' fingers are sourced directly from the farmers and brought to the shelves carefully, ensuring that the vegetable maintains its freshness and nutrients."},
+                    {"details":"Do not forget to check out our delicious recipe- https://www.bigbasket.com/cookbook/recipes/2136/cheesy-okra-bhindi-fritters/"}
+                ],
+            "benifits":[
+                    {"use":"Ladies' finger aids in digestion as it contains prebiotic fiber and controls obesity and cholesterol. It is loaded with Vitamin A, B, C, and traces of Zinc & Calcium"},
+                    {"use":"It acts as hair conditioner, fights dandruff and moistures the scalp."} 
+                ]   
+        },
+        {
+            "id":"veg8",
+            "name":"Baby Potato",
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000024_20-fresho-baby-potato.jpg",
+            "price": 14,
+            "mrp":19.18,
+            "added":false,
+            "add1":true,
+            "add2":false,
+            "itemscount":1,
+            "quantity":true,
+            "about":[
+                    {"details":"These small baby potatoes are a sweeter variety than normal ones and come with a creamy off white interior. Baby potato is a starchy vegetable that adds thickness to recipes and blends well with other vegetables."},
+                    {"details":"Do not forget to check our delicious recipe - https://www.bigbasket.com/cookbook/recipes/2133/baked-cheesy-baby-potatoes/"} 
+                ],
+            "benifits":[
+                    {"use":"Baby potatoes are a rich source of dietary fibres, potassium, vitamin C and B-6."},
+                    {"use":"They reduce the risk of cardiovascular diseases."} 
+                ]   
+        }
+    ]
+}
