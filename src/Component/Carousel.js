@@ -38,6 +38,7 @@ export const MultipleItems=()=>{
     const state=useSelector(
         ({data})=>data
     )
+    const x="hi"
 
     const dispatch=useDispatch()
 
